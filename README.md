@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-DevOps Engineer with 3+ years of experience in DevOps tools, CI/CD pipelines, Kubernetes, and infrastructure automation. Proficient in Terraform, Docker, and cloud infrastructure management. Skilled in automating deployments, troubleshooting issues, and enhancing system reliability. Passionate about optimizing software delivery, ensuring scalability, and maintaining compliance with industry standards.
+DevOps Engineer with 3.5+ years of experience in DevOps tools, CI/CD pipelines, Kubernetes, and infrastructure automation. Proficient in Terraform, Docker, and cloud infrastructure management. Skilled in automating deployments, troubleshooting issues, and enhancing system reliability. Passionate about optimizing software delivery, ensuring scalability, and maintaining compliance with industry standards.
 
 - 🛠️ **Tech Stack:** Linux, Docker, Kubernetes, Terraform, AWS, Azure, CI/CD, Prometheus, Grafana, ServiceNow, Ansible
 - 💡 **Interests:** DevOps, Cloud Automation,Infrastructure as Code
