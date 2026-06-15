@@ -1,6 +1,6 @@
 # Hi there, I'm Shubham Singh 👋
 
-**DevOps Engineer @ HCLTech | AWS Certified Solutions Architect Associate | Microsoft Certified: Azure Administrator Associate**
+**DevOps Engineer | AWS Certified Solutions Architect Associate | Microsoft Certified: Azure Administrator Associate**
 
 ---
 
